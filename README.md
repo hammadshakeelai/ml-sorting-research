@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="assets/banner.svg" alt="LearnedSort Research Monograph Banner" width="100%">
+</p>
+
 # ⚡ Machine Learning-Based Sorting & Complexity Limits
 
 [![C++20](https://img.shields.io/badge/C%2B%2B-20-blue.svg)](https://en.cppreference.com/w/cpp/20)

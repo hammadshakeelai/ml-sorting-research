@@ -9,6 +9,10 @@ tags:
 created: 2026-09-26
 ---
 
+<p align="center">
+  <img src="../assets/banner.svg" alt="LearnedSort Research Banner" width="100%">
+</p>
+
 # 🧠 Machine Learning Sorting Knowledge Base (Map of Content)
 
 Welcome to the central index for research into **Machine Learning-Based Sorting, Complexity Limits, and Empirical Feasibility**. This vault documents theoretical proofs, neural architectures, learned algorithms, hardware constraints, benchmark logs, and future research roadmaps.
