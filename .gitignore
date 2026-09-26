@@ -1,0 +1,36 @@
+# Binaries & Executables
+*.exe
+*.dll
+*.so
+*.dylib
+*.out
+*.o
+*.obj
+learned_sort.exe
+
+# Build directories
+build/
+bin/
+obj/
+cmake-build-*/
+
+# Python caches
+__pycache__/
+*.py[cod]
+*$py.class
+*.venv
+venv/
+env/
+.pytest_cache/
+
+# IDE & Editor files
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.DS_Store
+
+# Obsidian local workspace settings (preserves note content and MOC)
+.obsidian/workspace.json
+.obsidian/workspace-mobile.json

@@ -1,0 +1,122 @@
+{
+  "Uniform": {
+    "1000": {
+      "LearnedSort_ms": 0.7292000227607787,
+      "TimSort_ms": 0.06959997699595988,
+      "NumPy_ms": 0.010300020221620798,
+      "exact_verified": true
+    },
+    "10000": {
+      "LearnedSort_ms": 6.256499997107312,
+      "TimSort_ms": 0.9421000140719116,
+      "NumPy_ms": 0.07579999510198832,
+      "exact_verified": true
+    },
+    "50000": {
+      "LearnedSort_ms": 33.65860000485554,
+      "TimSort_ms": 6.9654999824706465,
+      "NumPy_ms": 0.44940001680515707,
+      "exact_verified": true
+    }
+  },
+  "Gaussian": {
+    "1000": {
+      "LearnedSort_ms": 0.8386000117752701,
+      "TimSort_ms": 0.5555999814532697,
+      "NumPy_ms": 0.012600008631125093,
+      "exact_verified": true
+    },
+    "10000": {
+      "LearnedSort_ms": 6.217200017999858,
+      "TimSort_ms": 1.1178999848198146,
+      "NumPy_ms": 0.12110001989640296,
+      "exact_verified": true
+    },
+    "50000": {
+      "LearnedSort_ms": 38.62500001559965,
+      "TimSort_ms": 5.810899980133399,
+      "NumPy_ms": 0.4447000101208687,
+      "exact_verified": true
+    }
+  },
+  "Exponential (Skewed)": {
+    "1000": {
+      "LearnedSort_ms": 0.745099998312071,
+      "TimSort_ms": 0.5087000026833266,
+      "NumPy_ms": 0.011199997970834374,
+      "exact_verified": true
+    },
+    "10000": {
+      "LearnedSort_ms": 6.7928000062238425,
+      "TimSort_ms": 1.0894000006373972,
+      "NumPy_ms": 0.10829998063854873,
+      "exact_verified": true
+    },
+    "50000": {
+      "LearnedSort_ms": 44.42759999074042,
+      "TimSort_ms": 6.012500001816079,
+      "NumPy_ms": 0.4454999871086329,
+      "exact_verified": true
+    }
+  },
+  "Bimodal Mixture": {
+    "1000": {
+      "LearnedSort_ms": 0.7272000075317919,
+      "TimSort_ms": 0.5570999928750098,
+      "NumPy_ms": 0.012900010915473104,
+      "exact_verified": true
+    },
+    "10000": {
+      "LearnedSort_ms": 6.006100011290982,
+      "TimSort_ms": 0.9720000089146197,
+      "NumPy_ms": 0.0838999985717237,
+      "exact_verified": true
+    },
+    "50000": {
+      "LearnedSort_ms": 34.40319999936037,
+      "TimSort_ms": 5.402700015110895,
+      "NumPy_ms": 0.40079999598674476,
+      "exact_verified": true
+    }
+  },
+  "Heavy Duplicates": {
+    "1000": {
+      "LearnedSort_ms": 0.39060000563040376,
+      "TimSort_ms": 0.5676000146195292,
+      "NumPy_ms": 0.019099999917671084,
+      "exact_verified": true
+    },
+    "10000": {
+      "LearnedSort_ms": 2.676700009033084,
+      "TimSort_ms": 0.43250000453554094,
+      "NumPy_ms": 0.027300004148855805,
+      "exact_verified": true
+    },
+    "50000": {
+      "LearnedSort_ms": 13.570600014645606,
+      "TimSort_ms": 2.288299991050735,
+      "NumPy_ms": 0.17529999604448676,
+      "exact_verified": true
+    }
+  },
+  "Nearly Sorted (Adversarial)": {
+    "1000": {
+      "LearnedSort_ms": 0.5887000006623566,
+      "TimSort_ms": 0.4752000095322728,
+      "NumPy_ms": 0.017399986973032355,
+      "exact_verified": true
+    },
+    "10000": {
+      "LearnedSort_ms": 4.885900008957833,
+      "TimSort_ms": 0.39739999920129776,
+      "NumPy_ms": 0.07619999814778566,
+      "exact_verified": true
+    },
+    "50000": {
+      "LearnedSort_ms": 29.668600007425994,
+      "TimSort_ms": 2.6904999976977706,
+      "NumPy_ms": 0.4044999950565398,
+      "exact_verified": true
+    }
+  }
+}
